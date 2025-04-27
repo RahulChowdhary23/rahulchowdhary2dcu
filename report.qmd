@@ -1,0 +1,212 @@
+---
+title: "Global Insights on Iodized Salt Consumption"
+author:
+  - Rahul Chowdhary DCU Id -11792
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 2
+    page-layout: full
+    embed-resources: true
+    code-tools: true
+execute:
+  warning: false
+  message: false
+---
+
+# About This Report
+
+The Tableau version of this report can be found in **[Click here](https://public.tableau.com/views/IodineVsChildDeprivation/Dashboard12?:language=en-US&:sid=&:redirect_auth=&:display_count=n&:origin=viz_share_link)**
+
+Iodized salt consumption is a simple yet powerful proxy for understanding global public health efforts, particularly in preventing iodine deficiency disorders.
+
+# Introduction
+
+Iodine is a crucial micronutrient necessary for thyroid health, brain development, and growth.  
+Universal salt iodization is one of the most successful public health initiatives globally.  
+This report explores trends in iodized salt consumption based on UNICEF datasets through a series of visual analyses.
+
+---
+
+# Iodized Salt Consumption Across Countries
+
+![](images/worldmap.png){fig-align="center" width="85%"}
+
+**Insight:**  
+
+::: {.compact}
+-  The **_choropleth map_** shows **strong iodization coverage** in _Asia_ and _Latin America_.  
+-  Meanwhile, **_Sub-Saharan Africa_** and parts of the **_Middle East lag behind_** in iodized salt consumption.  
+-  **_Concentrated initiatives_** are needed to extend **iodine fortification efforts** to these _underserved regions_.  
+:::
+
+
+:::: {.panel-tabset}
+### Show Code
+```{.python .code-fold}
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import geopandas as gpd
+from sklearn.linear_model import LinearRegression
+import numpy as np
+import matplotlib.ticker as ticker
+
+fig, ax = plt.subplots(1, 1, figsize=(20, 10))
+merged.plot(column='obs_value', cmap='Reds', linewidth=0.8, ax=ax, edgecolor='0.8', legend=True,
+            missing_kwds={"color": "lightgrey", "label": "Missing values"})
+ax.set_title('Iodized Salt Consumption Among Tested Households', fontsize=22)
+ax.axis('off')
+plt.show()
+
+# Bar Chart
+age_groups = ['1-3 years', '4-6 years', '7-10 years', '11-18 years girls', '11-18 years boys', 'Pregnant and Breastfeeding women']
+iodine_amount = [70, 100, 110, 130, 140, 200]
+colors = ['gold', 'skyblue', 'limegreen', 'crimson', 'navy', 'darkorange']
+
+fig, ax = plt.subplots(figsize=(12, 8))
+bars = ax.bar(age_groups, iodine_amount, color=colors)
+ax.set_ylabel('Amount Iodine in mcg', fontsize=14)
+ax.set_xlabel('Age Group', fontsize=14)
+ax.set_title('Recommended Daily Iodine Intake by Age Group', fontsize=18)
+ax.set_ylim(0, 220)
+for bar in bars:
+    yval = bar.get_height()
+    ax.text(bar.get_x() + bar.get_width()/2, yval + 5, int(yval), ha='center', va='bottom', fontsize=12)
+plt.xticks(rotation=20, ha='right')
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.show()
+```
+::::
+
+---
+
+# Recommended Daily Iodine Intake by Age Group
+
+![](images/barchart.png){fig-align="center" width="70%"}
+
+**Insight:**  
+
+::::{.compact}
+
+- _Iodine requirements_ vary **significantly** across _different life stages_.
+- _Nutritional programs_ must prioritize **adolescents** and **pregnant women**.
+- These groups have **substantially higher iodine needs** compared to others.
+
+::::
+
+:::: {.panel-tabset}
+
+---
+
+### Show Code
+```{.python .code-fold}
+age_groups = ['1-3 years', '4-6 years', '7-10 years', '11-18 years girls', '11-18 years boys', 'Pregnant and Breastfeeding women']
+iodine_amount = [70, 100, 110, 130, 140, 200]
+colors = ['gold', 'skyblue', 'limegreen', 'crimson', 'navy', 'darkorange']
+
+fig, ax = plt.subplots(figsize=(12, 8))
+bars = ax.bar(age_groups, iodine_amount, color=colors)
+ax.set_ylabel('Amount Iodine in mcg', fontsize=14)
+ax.set_xlabel('Age Group', fontsize=14)
+ax.set_title('Recommended Daily Iodine Intake by Age Group', fontsize=18)
+ax.set_ylim(0, 220)
+for bar in bars:
+    yval = bar.get_height()
+    ax.text(bar.get_x() + bar.get_width()/2, yval + 5, int(yval), ha='center', va='bottom', fontsize=12)
+plt.xticks(rotation=20, ha='right')
+plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.show()
+```
+::::
+
+---
+
+# Global Average Iodized Salt Consumption (2000–2020)
+
+![](images/linechart.png){fig-align="center" width="80%"}
+
+**Insight:**  
+
+::::{.compact}
+
+- _Global average consumption_ of iodized salt shows a **steady upward trend** from _2000 to 2020_.
+- This trend demonstrates the **success of widespread public health initiatives** promoting _salt iodization_.
+
+::::
+
+
+
+:::: {.panel-tabset}
+
+### Show Code
+```{.python .code-fold}
+df_avg = df1.groupby('time_period')['obs_value'].mean().reset_index()
+df_avg['time_period'] = pd.to_numeric(df_avg['time_period'], errors='coerce')
+df_avg = df_avg[(df_avg['time_period'] >= 2000) & (df_avg['time_period'] <= 2020)]
+
+fig, ax = plt.subplots(figsize=(12, 6))
+ax.plot(df_avg['time_period'], df_avg['obs_value'], marker='o', linestyle='-', color='red')
+ax.set_xlabel('Year', fontsize=14)
+ax.set_ylabel('Average Iodized Salt Consumption (%)', fontsize=14)
+ax.set_title('Global Average Iodized Salt Consumption (2000–2020)', fontsize=18)
+ax.set_ylim(0, 100)
+ax.grid(True, linestyle='--', alpha=0.5)
+ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+plt.tight_layout()
+plt.show()
+```
+::::
+
+---
+
+# Trend of Iodized Salt Consumption Over Time
+
+![](images/scatter_reg.png){fig-align="center" width="80%"}
+
+**Insight:**  
+
+::::{.compact}
+
+- The _scatter plot with a regression line_ indicates a **positive overall trend** in _iodized salt consumption over time_.
+- However, _variability among individual countries_ suggests that **targeted interventions** remain **critical**.
+
+::::
+
+
+
+:::: {.panel-tabset}
+
+### Show Code
+```{.python .code-fold}
+df1 = df1.dropna(subset=['obs_value'])
+df1['time_period'] = pd.to_numeric(df1['time_period'], errors='coerce')
+
+fig, ax = plt.subplots(figsize=(12, 6))
+sns.regplot(data=df1, x='time_period', y='obs_value',
+            scatter_kws={'s': 50, 'color': 'blue', 'alpha': 0.6},
+            line_kws={'color': 'red', 'linewidth': 2},
+            ax=ax)
+ax.set_xlabel('Year', fontsize=14)
+ax.set_ylabel('Iodized Salt Consumption (%)', fontsize=14)
+ax.set_title('Trend of Iodized Salt Consumption Over Time', fontsize=18)
+ax.set_ylim(0, 100)
+ax.grid(True, linestyle='--', alpha=0.5)
+ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+plt.tight_layout()
+plt.show()
+```
+::::
+
+--- 
+
+# Conclusion
+
+Iodized salt consumption has improved significantly at the global level, preventing millions of cases of iodine deficiency-related disorders.  
+Nonetheless, to completely eliminate iodine deficiency disorders (IDDs), continuous and targeted efforts are essential — especially in vulnerable countries where iodization coverage remains insufficient.
+

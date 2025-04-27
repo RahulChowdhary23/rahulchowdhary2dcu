@@ -1,0 +1,408 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Iodized salt consumption (>0 ppm) among all tested households,2004,28.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Afghanistan,AF,AFG,4,Iodized salt consumption (>0 ppm) among all tested households,2011,54.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Afghanistan,AF,AFG,4,Iodized salt consumption (>0 ppm) among all tested households,2015,56.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Albania,AL,ALB,8,Iodized salt consumption (>0 ppm) among all tested households,2000,78.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Albania,AL,ALB,8,Iodized salt consumption (>0 ppm) among all tested households,2005,97.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Albania,AL,ALB,8,Iodized salt consumption (>0 ppm) among all tested households,2009,90.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Albania,AL,ALB,8,Iodized salt consumption (>0 ppm) among all tested households,2017,64.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Algeria,DZ,DZA,12,Iodized salt consumption (>0 ppm) among all tested households,2006,68.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Algeria,DZ,DZA,12,Iodized salt consumption (>0 ppm) among all tested households,2012,81.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Algeria,DZ,DZA,12,Iodized salt consumption (>0 ppm) among all tested households,2019,89.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Angola,AO,AGO,24,Iodized salt consumption (>0 ppm) among all tested households,2001,56.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Angola,AO,AGO,24,Iodized salt consumption (>0 ppm) among all tested households,2015,82.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Armenia,AM,ARM,51,Iodized salt consumption (>0 ppm) among all tested households,2000,90.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Armenia,AM,ARM,51,Iodized salt consumption (>0 ppm) among all tested households,2005,99.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Armenia,AM,ARM,51,Iodized salt consumption (>0 ppm) among all tested households,2016,99.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Azerbaijan,AZ,AZE,31,Iodized salt consumption (>0 ppm) among all tested households,2000,63.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Azerbaijan,AZ,AZE,31,Iodized salt consumption (>0 ppm) among all tested households,2006,94.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Azerbaijan,AZ,AZE,31,Iodized salt consumption (>0 ppm) among all tested households,2011,95,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Azerbaijan,AZ,AZE,31,Iodized salt consumption (>0 ppm) among all tested households,2013,93.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2004,81.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2005,83,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2006,84.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2011-09,81.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2011-11,80.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2013,72.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2015,68.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bangladesh,BD,BGD,50,Iodized salt consumption (>0 ppm) among all tested households,2019,76,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Barbados,BB,BRB,52,Iodized salt consumption (>0 ppm) among all tested households,2012,36.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Belize,BZ,BLZ,84,Iodized salt consumption (>0 ppm) among all tested households,2015,84.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,1996,73.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2001,79.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2006,79.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2011,83.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2012,89,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2014,69.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2018,84.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Benin,BJ,BEN,204,Iodized salt consumption (>0 ppm) among all tested households,2021,82.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bhutan,BT,BTN,64,Iodized salt consumption (>0 ppm) among all tested households,2008,98.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Iodized salt consumption (>0 ppm) among all tested households,1994,82.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Iodized salt consumption (>0 ppm) among all tested households,2000,84.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Iodized salt consumption (>0 ppm) among all tested households,2003,88,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Iodized salt consumption (>0 ppm) among all tested households,2008,85.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Iodized salt consumption (>0 ppm) among all tested households,2016,85.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Botswana,BW,BWA,72,Iodized salt consumption (>0 ppm) among all tested households,2000,91.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Botswana,BW,BWA,72,Iodized salt consumption (>0 ppm) among all tested households,2007,82.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Brazil,BR,BRA,76,Iodized salt consumption (>0 ppm) among all tested households,1996,92.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Brazil,BR,BRA,76,Iodized salt consumption (>0 ppm) among all tested households,2007,98.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Bulgaria,BG,BGR,100,Iodized salt consumption (>0 ppm) among all tested households,2012,91.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Burkina Faso,BF,BFA,854,Iodized salt consumption (>0 ppm) among all tested households,2003,80.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Burkina Faso,BF,BFA,854,Iodized salt consumption (>0 ppm) among all tested households,2006,51.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Burkina Faso,BF,BFA,854,Iodized salt consumption (>0 ppm) among all tested households,2010,92.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Burkina Faso,BF,BFA,854,Iodized salt consumption (>0 ppm) among all tested households,2021,89,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Burundi,BI,BDI,108,Iodized salt consumption (>0 ppm) among all tested households,2000,71.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Burundi,BI,BDI,108,Iodized salt consumption (>0 ppm) among all tested households,2010,87.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Burundi,BI,BDI,108,Iodized salt consumption (>0 ppm) among all tested households,2016,89.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cape Verde,CV,CPV,132,Iodized salt consumption (>0 ppm) among all tested households,2008,97.2,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Cape Verde,CV,CPV,132,Iodized salt consumption (>0 ppm) among all tested households,2010,91.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2000,13.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2005,73.7,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2005-11,71.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2008-03,73.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2008-11,71.5,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2010,81.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2011,68.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cambodia,KH,KHM,116,Iodized salt consumption (>0 ppm) among all tested households,2014,68.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,1998,84.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2000,90.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2004,84.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2006,83.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2011,92,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2014,86,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cameroon,CM,CMR,120,Iodized salt consumption (>0 ppm) among all tested households,2018,90.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,1994,22.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,2000,86.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,2006,77.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,2010,77,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,2012,84.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Central African Republic,CF,CAF,140,Iodized salt consumption (>0 ppm) among all tested households,2019,76,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,1997,56.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2000,64.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2004,66.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2010,73.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2015,76.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2015-10,69.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Chad,TD,TCD,148,Iodized salt consumption (>0 ppm) among all tested households,2019,65,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+China,CN,CHN,156,Iodized salt consumption (>0 ppm) among all tested households,2009,96.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+China,CN,CHN,156,Iodized salt consumption (>0 ppm) among all tested households,2010,96.6,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+China,CN,CHN,156,Iodized salt consumption (>0 ppm) among all tested households,2011,96.8,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+China,CN,CHN,156,Iodized salt consumption (>0 ppm) among all tested households,2014,96.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+China,CN,CHN,156,Iodized salt consumption (>0 ppm) among all tested households,2018,96.6,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Comoros,KM,COM,174,Iodized salt consumption (>0 ppm) among all tested households,2000,91,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Comoros,KM,COM,174,Iodized salt consumption (>0 ppm) among all tested households,2012,81.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Congo,CG,COG,178,Iodized salt consumption (>0 ppm) among all tested households,2005,86.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Congo,CG,COG,178,Iodized salt consumption (>0 ppm) among all tested households,2011,89.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Congo,CG,COG,178,Iodized salt consumption (>0 ppm) among all tested households,2014,91.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Cuba,CU,CUB,192,Iodized salt consumption (>0 ppm) among all tested households,2019,89.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ivory Coast,CI,CIV,384,Iodized salt consumption (>0 ppm) among all tested households,2000,68.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ivory Coast,CI,CIV,384,Iodized salt consumption (>0 ppm) among all tested households,2012,81.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ivory Coast,CI,CIV,384,Iodized salt consumption (>0 ppm) among all tested households,2016,79.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ivory Coast,CI,CIV,384,Iodized salt consumption (>0 ppm) among all tested households,2021,88.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Iodized salt consumption (>0 ppm) among all tested households,2009,48,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Iodized salt consumption (>0 ppm) among all tested households,2010,42.1,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Iodized salt consumption (>0 ppm) among all tested households,2017,37.5,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Iodized salt consumption (>0 ppm) among all tested households,2001,77.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Iodized salt consumption (>0 ppm) among all tested households,2007,78.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Iodized salt consumption (>0 ppm) among all tested households,2010,73.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Iodized salt consumption (>0 ppm) among all tested households,2013,82.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Iodized salt consumption (>0 ppm) among all tested households,2017,84.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Djibouti,DJ,DJI,262,Iodized salt consumption (>0 ppm) among all tested households,2006,4.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Dominican Republic,DO,DOM,214,Iodized salt consumption (>0 ppm) among all tested households,2000,29.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Dominican Republic,DO,DOM,214,Iodized salt consumption (>0 ppm) among all tested households,2006,31.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2000,55.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2003,79.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2005,82.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2008,96.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2014-05,88.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Egypt,EG,EGY,818,Iodized salt consumption (>0 ppm) among all tested households,2015,92.5,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Equatorial Guinea,GQ,GNQ,226,Iodized salt consumption (>0 ppm) among all tested households,2000,57.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Eritrea,ER,ERI,232,Iodized salt consumption (>0 ppm) among all tested households,2002,72.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Eritrea,ER,ERI,232,Iodized salt consumption (>0 ppm) among all tested households,2010,86.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Swaziland,SZ,SWZ,748,Iodized salt consumption (>0 ppm) among all tested households,2000,85.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Swaziland,SZ,SWZ,748,Iodized salt consumption (>0 ppm) among all tested households,2006,93.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Swaziland,SZ,SWZ,748,Iodized salt consumption (>0 ppm) among all tested households,2010,85.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Swaziland,SZ,SWZ,748,Iodized salt consumption (>0 ppm) among all tested households,2014,90.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ethiopia,ET,ETH,231,Iodized salt consumption (>0 ppm) among all tested households,2000,28.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ethiopia,ET,ETH,231,Iodized salt consumption (>0 ppm) among all tested households,2005,54.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ethiopia,ET,ETH,231,Iodized salt consumption (>0 ppm) among all tested households,2011,14.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ethiopia,ET,ETH,231,Iodized salt consumption (>0 ppm) among all tested households,2015,84.6,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Ethiopia,ET,ETH,231,Iodized salt consumption (>0 ppm) among all tested households,2016,85.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gabon,GA,GAB,266,Iodized salt consumption (>0 ppm) among all tested households,2000,15.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gabon,GA,GAB,266,Iodized salt consumption (>0 ppm) among all tested households,2012,89.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2000,37.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2006,17,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2010,52.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2013,69.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2018,74.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Gambia,GM,GMB,270,Iodized salt consumption (>0 ppm) among all tested households,2020,67.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Georgia,GE,GEO,268,Iodized salt consumption (>0 ppm) among all tested households,2005-10,95.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Georgia,GE,GEO,268,Iodized salt consumption (>0 ppm) among all tested households,2005-11,93.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Georgia,GE,GEO,268,Iodized salt consumption (>0 ppm) among all tested households,2009,98.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,1998,27.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2003,37.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2006,50.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2011,68,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2014,56.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2015,63.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2017,68.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ghana,GH,GHA,288,Iodized salt consumption (>0 ppm) among all tested households,2022,72.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guatemala,GT,GTM,320,Iodized salt consumption (>0 ppm) among all tested households,1995,91.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guatemala,GT,GTM,320,Iodized salt consumption (>0 ppm) among all tested households,1999,59,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guatemala,GT,GTM,320,Iodized salt consumption (>0 ppm) among all tested households,2009,88.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,1999,12.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,2005,46.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,2007,51.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,2012,60.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,2016,72.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea,GN,GIN,324,Iodized salt consumption (>0 ppm) among all tested households,2018,52.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2000,7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2006,3.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2010,26.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2012,33.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2014,25.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Iodized salt consumption (>0 ppm) among all tested households,2019,32.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guyana,GY,GUY,328,Iodized salt consumption (>0 ppm) among all tested households,2009,19.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Guyana,GY,GUY,328,Iodized salt consumption (>0 ppm) among all tested households,2014,42.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Haiti,HT,HTI,332,Iodized salt consumption (>0 ppm) among all tested households,2000,23.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Haiti,HT,HTI,332,Iodized salt consumption (>0 ppm) among all tested households,2006,10.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Haiti,HT,HTI,332,Iodized salt consumption (>0 ppm) among all tested households,2012,15.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Haiti,HT,HTI,332,Iodized salt consumption (>0 ppm) among all tested households,2017,7.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Honduras,HN,HND,340,Iodized salt consumption (>0 ppm) among all tested households,2019,88.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,1999,71.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,2006,75.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,2015-02,94.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,2016,92.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,2018,92.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+India,IN,IND,356,Iodized salt consumption (>0 ppm) among all tested households,2020,93.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Indonesia,ID,IDN,360,Iodized salt consumption (>0 ppm) among all tested households,2013,91.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Iodized salt consumption (>0 ppm) among all tested households,1997,94.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Iodized salt consumption (>0 ppm) among all tested households,2000,93.5,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Iraq,IQ,IRQ,368,Iodized salt consumption (>0 ppm) among all tested households,2000,52.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Iraq,IQ,IRQ,368,Iodized salt consumption (>0 ppm) among all tested households,2006,54.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Iraq,IQ,IRQ,368,Iodized salt consumption (>0 ppm) among all tested households,2011,54.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Iraq,IQ,IRQ,368,Iodized salt consumption (>0 ppm) among all tested households,2018,68.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Jordan,JO,JOR,400,Iodized salt consumption (>0 ppm) among all tested households,2000,88.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Iodized salt consumption (>0 ppm) among all tested households,1999,30.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Iodized salt consumption (>0 ppm) among all tested households,2006,95.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Iodized salt consumption (>0 ppm) among all tested households,2010,94.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Iodized salt consumption (>0 ppm) among all tested households,2015,94.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kenya,KE,KEN,404,Iodized salt consumption (>0 ppm) among all tested households,2000,95.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kenya,KE,KEN,404,Iodized salt consumption (>0 ppm) among all tested households,2008,95.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kenya,KE,KEN,404,Iodized salt consumption (>0 ppm) among all tested households,2014,94.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kenya,KE,KEN,404,Iodized salt consumption (>0 ppm) among all tested households,2022,94.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kiribati,KI,KIR,296,Iodized salt consumption (>0 ppm) among all tested households,2018,76.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Iodized salt consumption (>0 ppm) among all tested households,2006,97,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Iodized salt consumption (>0 ppm) among all tested households,2012,96.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Iodized salt consumption (>0 ppm) among all tested households,2014,99.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Iodized salt consumption (>0 ppm) among all tested households,2018,98.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Iodized salt consumption (>0 ppm) among all tested households,2000,91.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Iodized salt consumption (>0 ppm) among all tested households,2006,83.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Iodized salt consumption (>0 ppm) among all tested households,2011,79.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Iodized salt consumption (>0 ppm) among all tested households,2017,93.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lebanon,LB,LBN,422,Iodized salt consumption (>0 ppm) among all tested households,2004,95.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lesotho,LS,LSO,426,Iodized salt consumption (>0 ppm) among all tested households,2000,71.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lesotho,LS,LSO,426,Iodized salt consumption (>0 ppm) among all tested households,2004,92.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lesotho,LS,LSO,426,Iodized salt consumption (>0 ppm) among all tested households,2009,92.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Lesotho,LS,LSO,426,Iodized salt consumption (>0 ppm) among all tested households,2014,85,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Liberia,LR,LBR,430,Iodized salt consumption (>0 ppm) among all tested households,2011,94.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Liberia,LR,LBR,430,Iodized salt consumption (>0 ppm) among all tested households,2013,91.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Liberia,LR,LBR,430,Iodized salt consumption (>0 ppm) among all tested households,2019,86.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Iodized salt consumption (>0 ppm) among all tested households,2003,58.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Iodized salt consumption (>0 ppm) among all tested households,2007,69.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Iodized salt consumption (>0 ppm) among all tested households,2014,69.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Madagascar,MG,MDG,450,Iodized salt consumption (>0 ppm) among all tested households,1997,79.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Madagascar,MG,MDG,450,Iodized salt consumption (>0 ppm) among all tested households,2000,76.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Madagascar,MG,MDG,450,Iodized salt consumption (>0 ppm) among all tested households,2004,71.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Madagascar,MG,MDG,450,Iodized salt consumption (>0 ppm) among all tested households,2009,68.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2000,82,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2006,76.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2010,84.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2014,77.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2015,77.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malawi,MW,MWI,454,Iodized salt consumption (>0 ppm) among all tested households,2020,80,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Malaysia,MY,MYS,458,Iodized salt consumption (>0 ppm) among all tested households,2008,28.2,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Maldives,MV,MDV,462,Iodized salt consumption (>0 ppm) among all tested households,2008,96.7,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2001,67.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2006,86.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2010,81.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2015,90.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2018,89.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mali,ML,MLI,466,Iodized salt consumption (>0 ppm) among all tested households,2020,76.1,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Mauritania,MR,MRT,478,Iodized salt consumption (>0 ppm) among all tested households,2000,2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mauritania,MR,MRT,478,Iodized salt consumption (>0 ppm) among all tested households,2007,5.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mauritania,MR,MRT,478,Iodized salt consumption (>0 ppm) among all tested households,2011,24.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mauritania,MR,MRT,478,Iodized salt consumption (>0 ppm) among all tested households,2015,7.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mauritania,MR,MRT,478,Iodized salt consumption (>0 ppm) among all tested households,2018,25.2,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2000,49.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2005,83.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2010,81,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2013,79.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2016,79.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mongolia,MN,MNG,496,Iodized salt consumption (>0 ppm) among all tested households,2018,75.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Morocco,MA,MAR,504,Iodized salt consumption (>0 ppm) among all tested households,2006,43.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Mozambique,MZ,MOZ,508,Iodized salt consumption (>0 ppm) among all tested households,2003,53.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mozambique,MZ,MOZ,508,Iodized salt consumption (>0 ppm) among all tested households,2008,58.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mozambique,MZ,MOZ,508,Iodized salt consumption (>0 ppm) among all tested households,2011,42.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Mozambique,MZ,MOZ,508,Iodized salt consumption (>0 ppm) among all tested households,2022,62.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Myanmar,MM,MMR,104,Iodized salt consumption (>0 ppm) among all tested households,2000,73.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Myanmar,MM,MMR,104,Iodized salt consumption (>0 ppm) among all tested households,2016,80.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Myanmar,MM,MMR,104,Iodized salt consumption (>0 ppm) among all tested households,2018,85,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Namibia,,NAM,516,Iodized salt consumption (>0 ppm) among all tested households,2000,75.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Namibia,,NAM,516,Iodized salt consumption (>0 ppm) among all tested households,2013,73.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,1998,82.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2005,94.7,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2011,97.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2014,95.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2016-05,95.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2016-10,94.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nepal,NP,NPL,524,Iodized salt consumption (>0 ppm) among all tested households,2022,97.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,1998,64.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,2000,43.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,2006,72.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,2010,59.6,Total,Units,Percent,Adjusted,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,2012,49.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Niger,NE,NER,562,Iodized salt consumption (>0 ppm) among all tested households,2014,59.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,1999,94.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2003,94.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2007,93,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2008,92.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2011,92.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2018,93.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Nigeria,NG,NGA,566,Iodized salt consumption (>0 ppm) among all tested households,2021,94.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Oman,OM,OMN,512,Iodized salt consumption (>0 ppm) among all tested households,2014,87.7,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Pakistan,PK,PAK,586,Iodized salt consumption (>0 ppm) among all tested households,2011,68.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Pakistan,PK,PAK,586,Iodized salt consumption (>0 ppm) among all tested households,2018,79.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Papua New Guinea,PG,PNG,598,Iodized salt consumption (>0 ppm) among all tested households,2005,59.7,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Paraguay,PY,PRY,600,Iodized salt consumption (>0 ppm) among all tested households,1996,84.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Paraguay,PY,PRY,600,Iodized salt consumption (>0 ppm) among all tested households,2011,93.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Paraguay,PY,PRY,600,Iodized salt consumption (>0 ppm) among all tested households,2019,91.8,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2000,97,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2008,92.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2010,90.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2011,92,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2012,92.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2013,91.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2014,90.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2015,88.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2016,87.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2017,88.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2018,88.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2019,90.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Peru,PE,PER,604,Iodized salt consumption (>0 ppm) among all tested households,2020,91.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Philippines,PH,PHL,608,Iodized salt consumption (>0 ppm) among all tested households,1999,22.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Philippines,PH,PHL,608,Iodized salt consumption (>0 ppm) among all tested households,2013,52.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Philippines,PH,PHL,608,Iodized salt consumption (>0 ppm) among all tested households,2018,57,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Qatar,QA,QAT,634,Iodized salt consumption (>0 ppm) among all tested households,2012,99.4,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Iodized salt consumption (>0 ppm) among all tested households,2000,78.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Iodized salt consumption (>0 ppm) among all tested households,2005,60.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Iodized salt consumption (>0 ppm) among all tested households,2012,58,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Rwanda,RW,RWA,646,Iodized salt consumption (>0 ppm) among all tested households,2000,98,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Rwanda,RW,RWA,646,Iodized salt consumption (>0 ppm) among all tested households,2005,97.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Rwanda,RW,RWA,646,Iodized salt consumption (>0 ppm) among all tested households,2010,91.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Rwanda,RW,RWA,646,Iodized salt consumption (>0 ppm) among all tested households,2015,90.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Saint Lucia,LC,LCA,662,Iodized salt consumption (>0 ppm) among all tested households,2012,74.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Samoa,WS,WSM,882,Iodized salt consumption (>0 ppm) among all tested households,2014,96.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Samoa,WS,WSM,882,Iodized salt consumption (>0 ppm) among all tested households,2019,95.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Iodized salt consumption (>0 ppm) among all tested households,2000,81.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Iodized salt consumption (>0 ppm) among all tested households,2008,71.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Iodized salt consumption (>0 ppm) among all tested households,2014,90.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Iodized salt consumption (>0 ppm) among all tested households,2019,88.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Saudi Arabia,SA,SAU,682,Iodized salt consumption (>0 ppm) among all tested households,2012,69.8,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2000,29.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2005,64.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2011,43.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2013,50.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2014,56.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2015,50.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2016,56.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2017,61.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Senegal,SN,SEN,686,Iodized salt consumption (>0 ppm) among all tested households,2018,65.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2000,40.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2005,71.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2007,68.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2008,75.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2010,77.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2013,74.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2017,85.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sierra Leone,SL,SLE,694,Iodized salt consumption (>0 ppm) among all tested households,2019,82.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Solomon Islands,SB,SLB,90,Iodized salt consumption (>0 ppm) among all tested households,2015,88.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Somalia,SO,SOM,706,Iodized salt consumption (>0 ppm) among all tested households,2006,7.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Somalia,SO,SOM,706,Iodized salt consumption (>0 ppm) among all tested households,2009,6.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+South Africa,ZA,ZAF,710,Iodized salt consumption (>0 ppm) among all tested households,2016,91.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+South Sudan,SS,SSD,728,Iodized salt consumption (>0 ppm) among all tested households,2010,60,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sri Lanka,LK,LKA,144,Iodized salt consumption (>0 ppm) among all tested households,2000,88,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sri Lanka,LK,LKA,144,Iodized salt consumption (>0 ppm) among all tested households,2007,92.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sri Lanka,LK,LKA,144,Iodized salt consumption (>0 ppm) among all tested households,2010,95.3,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Sri Lanka,LK,LKA,144,Iodized salt consumption (>0 ppm) among all tested households,2016-06,96.9,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Sri Lanka,LK,LKA,144,Iodized salt consumption (>0 ppm) among all tested households,2016-09,91.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2004,83,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2006,96.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2010,91,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2013,90.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2014,88.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Iodized salt consumption (>0 ppm) among all tested households,2020,95.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sudan,SD,SDN,736,Iodized salt consumption (>0 ppm) among all tested households,2010,14.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Sudan,SD,SDN,736,Iodized salt consumption (>0 ppm) among all tested households,2014,34.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Iodized salt consumption (>0 ppm) among all tested households,2010,65.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Iodized salt consumption (>0 ppm) among all tested households,2019,72,Total,Units,Percent,Reported,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2000,35.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2005,68.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2007,85,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2009,82.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2012,83.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2016,74,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tajikistan,TJ,TJK,762,Iodized salt consumption (>0 ppm) among all tested households,2017,91.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Thailand,TH,THA,764,Iodized salt consumption (>0 ppm) among all tested households,2006,57.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Thailand,TH,THA,764,Iodized salt consumption (>0 ppm) among all tested households,2012,82.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Thailand,TH,THA,764,Iodized salt consumption (>0 ppm) among all tested households,2016,84.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Thailand,TH,THA,764,Iodized salt consumption (>0 ppm) among all tested households,2019,84.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Timor-Leste,TL,TLS,626,Iodized salt consumption (>0 ppm) among all tested households,2007,75.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Timor-Leste,TL,TLS,626,Iodized salt consumption (>0 ppm) among all tested households,2013,94.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Timor-Leste,TL,TLS,626,Iodized salt consumption (>0 ppm) among all tested households,2016,83.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Togo,TG,TGO,768,Iodized salt consumption (>0 ppm) among all tested households,2006,74.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Togo,TG,TGO,768,Iodized salt consumption (>0 ppm) among all tested households,2010,81.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Togo,TG,TGO,768,Iodized salt consumption (>0 ppm) among all tested households,2014,77.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Togo,TG,TGO,768,Iodized salt consumption (>0 ppm) among all tested households,2017,80.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tonga,TO,TON,776,Iodized salt consumption (>0 ppm) among all tested households,2019,52.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Iodized salt consumption (>0 ppm) among all tested households,2000,13.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Iodized salt consumption (>0 ppm) among all tested households,2006,52.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Iodized salt consumption (>0 ppm) among all tested households,2011,62.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turkmenistan,TM,TKM,795,Iodized salt consumption (>0 ppm) among all tested households,2000,86.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turkmenistan,TM,TKM,795,Iodized salt consumption (>0 ppm) among all tested households,2006,96.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turkmenistan,TM,TKM,795,Iodized salt consumption (>0 ppm) among all tested households,2015,99.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,Iodized salt consumption (>0 ppm) among all tested households,2020,69.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Tuvalu,TV,TUV,798,Iodized salt consumption (>0 ppm) among all tested households,2019,85.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turkey,TR,TUR,792,Iodized salt consumption (>0 ppm) among all tested households,2004,59.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Turkey,TR,TUR,792,Iodized salt consumption (>0 ppm) among all tested households,2008,85.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uganda,UG,UGA,800,Iodized salt consumption (>0 ppm) among all tested households,1995,68,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uganda,UG,UGA,800,Iodized salt consumption (>0 ppm) among all tested households,2000,89,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uganda,UG,UGA,800,Iodized salt consumption (>0 ppm) among all tested households,2006,88.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uganda,UG,UGA,800,Iodized salt consumption (>0 ppm) among all tested households,2011,91.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uganda,UG,UGA,800,Iodized salt consumption (>0 ppm) among all tested households,2016,91.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ukraine,UA,UKR,804,Iodized salt consumption (>0 ppm) among all tested households,2005,33.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Ukraine,UA,UKR,804,Iodized salt consumption (>0 ppm) among all tested households,2012,35.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,1999,66.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2004,68.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2010,77.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2011,80.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2013,73.1,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2015-04,80.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2015-11,76,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Iodized salt consumption (>0 ppm) among all tested households,2022,80.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uzbekistan,UZ,UZB,860,Iodized salt consumption (>0 ppm) among all tested households,2000,50.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Uzbekistan,UZ,UZB,860,Iodized salt consumption (>0 ppm) among all tested households,2006,81.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Vanuatu,VU,VUT,548,Iodized salt consumption (>0 ppm) among all tested households,2008,32.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Vanuatu,VU,VUT,548,Iodized salt consumption (>0 ppm) among all tested households,2013,62.6,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Vietnam,VN,VNM,704,Iodized salt consumption (>0 ppm) among all tested households,2000,58.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Vietnam,VN,VNM,704,Iodized salt consumption (>0 ppm) among all tested households,2010,60.9,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Yemen,YE,YEM,887,Iodized salt consumption (>0 ppm) among all tested households,2003,58.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Yemen,YE,YEM,887,Iodized salt consumption (>0 ppm) among all tested households,2013,48.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zambia,ZM,ZMB,894,Iodized salt consumption (>0 ppm) among all tested households,1996,80.2,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zambia,ZM,ZMB,894,Iodized salt consumption (>0 ppm) among all tested households,1999,55.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zambia,ZM,ZMB,894,Iodized salt consumption (>0 ppm) among all tested households,2002,79.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zambia,ZM,ZMB,894,Iodized salt consumption (>0 ppm) among all tested households,2013,88.4,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Iodized salt consumption (>0 ppm) among all tested households,2010,92.7,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Iodized salt consumption (>0 ppm) among all tested households,2014,88.5,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Iodized salt consumption (>0 ppm) among all tested households,2015,93.3,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Iodized salt consumption (>0 ppm) among all tested households,2019,83.8,Total,Units,Percent,Reanalysed,Middle of Fieldwork,Total

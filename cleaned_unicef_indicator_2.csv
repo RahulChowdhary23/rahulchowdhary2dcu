@@ -1,0 +1,217 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_of_measure,observation_status,current_age
+Albania,AL,ALB,8,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Female,Percent,Unknown,Total
+Albania,AL,ALB,8,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Male,Percent,Unknown,Total
+Albania,AL,ALB,8,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Total,Percent,Unknown,Total
+Algeria,DZ,DZA,12,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.018762592,Female,Percent,Unknown,Total
+Algeria,DZ,DZA,12,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.003398778,Male,Percent,Unknown,Total
+Algeria,DZ,DZA,12,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.010888581,Total,Percent,Unknown,Total
+Angola,AO,AGO,24,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,1.264063597,Female,Percent,Unknown,Total
+Angola,AO,AGO,24,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,1.140802264,Male,Percent,Unknown,Total
+Angola,AO,AGO,24,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,1.202908754,Total,Percent,Unknown,Total
+Armenia,AM,ARM,51,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Female,Percent,Unknown,Total
+Armenia,AM,ARM,51,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Male,Percent,Unknown,Total
+Armenia,AM,ARM,51,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Total,Percent,Unknown,Total
+Bangladesh,BD,BGD,50,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.002861475,Female,Percent,Unknown,Total
+Bangladesh,BD,BGD,50,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0,Male,Percent,Unknown,Total
+Bangladesh,BD,BGD,50,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.00143103,Total,Percent,Unknown,Total
+Belize,BZ,BLZ,84,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.016727969,Female,Percent,Unknown,Total
+Belize,BZ,BLZ,84,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Male,Percent,Unknown,Total
+Belize,BZ,BLZ,84,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.008121877,Total,Percent,Unknown,Total
+Benin,BJ,BEN,204,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.678719759,Female,Percent,Unknown,Total
+Benin,BJ,BEN,204,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.51840055,Male,Percent,Unknown,Total
+Benin,BJ,BEN,204,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.597403824,Total,Percent,Unknown,Total
+Burundi,BI,BDI,108,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.042623162,Female,Percent,Unknown,Total
+Burundi,BI,BDI,108,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.023771046,Male,Percent,Unknown,Total
+Burundi,BI,BDI,108,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.033277784,Total,Percent,Unknown,Total
+Cambodia,KH,KHM,116,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.99123913,Female,Percent,Unknown,Total
+Cambodia,KH,KHM,116,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,1.101278424,Male,Percent,Unknown,Total
+Cambodia,KH,KHM,116,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,1.047138095,Total,Percent,Unknown,Total
+Cameroon,CM,CMR,120,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.112955213,Female,Percent,Unknown,Total
+Cameroon,CM,CMR,120,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.060886256,Male,Percent,Unknown,Total
+Cameroon,CM,CMR,120,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.086823106,Total,Percent,Unknown,Total
+Chad,TD,TCD,148,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,1.390981317,Female,Percent,Unknown,Total
+Chad,TD,TCD,148,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,1.372634649,Male,Percent,Unknown,Total
+Chad,TD,TCD,148,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,1.381623864,Total,Percent,Unknown,Total
+Comoros,KM,COM,174,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0,Female,Percent,Unknown,Total
+Comoros,KM,COM,174,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0,Male,Percent,Unknown,Total
+Comoros,KM,COM,174,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0,Total,Percent,Unknown,Total
+Congo,CG,COG,178,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.160002798,Female,Percent,Unknown,Total
+Congo,CG,COG,178,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.101626113,Male,Percent,Unknown,Total
+Congo,CG,COG,178,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.130920559,Total,Percent,Unknown,Total
+Costa Rica,CR,CRI,188,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Female,Percent,Unknown,Total
+Costa Rica,CR,CRI,188,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Costa Rica,CR,CRI,188,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Total,Percent,Unknown,Total
+Ivory Coast,CI,CIV,384,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.246885404,Female,Percent,Unknown,Total
+Ivory Coast,CI,CIV,384,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.211895525,Male,Percent,Unknown,Total
+Ivory Coast,CI,CIV,384,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.2291293,Total,Percent,Unknown,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.16584225,Female,Percent,Unknown,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.121142179,Male,Percent,Unknown,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.143531144,Total,Percent,Unknown,Total
+Dominican Republic,DO,DOM,214,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0,Female,Percent,Unknown,Total
+Dominican Republic,DO,DOM,214,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0,Male,Percent,Unknown,Total
+Dominican Republic,DO,DOM,214,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0,Total,Percent,Unknown,Total
+Egypt,EG,EGY,818,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0,Female,Percent,Unknown,Total
+Egypt,EG,EGY,818,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.000262095,Male,Percent,Unknown,Total
+Egypt,EG,EGY,818,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.000136066,Total,Percent,Unknown,Total
+El Salvador,SV,SLV,222,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0,Female,Percent,Unknown,Total
+El Salvador,SV,SLV,222,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.01467776,Male,Percent,Unknown,Total
+El Salvador,SV,SLV,222,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.00754464,Total,Percent,Unknown,Total
+Swaziland,SZ,SWZ,748,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.107138664,Female,Percent,Unknown,Total
+Swaziland,SZ,SWZ,748,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.040097605,Male,Percent,Unknown,Total
+Swaziland,SZ,SWZ,748,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.073388375,Total,Percent,Unknown,Total
+Ethiopia,ET,ETH,231,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,1.78153801,Female,Percent,Unknown,Total
+Ethiopia,ET,ETH,231,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,1.508330464,Male,Percent,Unknown,Total
+Ethiopia,ET,ETH,231,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,1.640996218,Total,Percent,Unknown,Total
+Gabon,GA,GAB,266,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.008717927,Female,Percent,Unknown,Total
+Gabon,GA,GAB,266,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.004562988,Male,Percent,Unknown,Total
+Gabon,GA,GAB,266,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.006688211,Total,Percent,Unknown,Total
+Gambia,GM,GMB,270,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Female,Percent,Unknown,Total
+Gambia,GM,GMB,270,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Gambia,GM,GMB,270,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Total,Percent,Unknown,Total
+Ghana,GH,GHA,288,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.173192188,Female,Percent,Unknown,Total
+Ghana,GH,GHA,288,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.092650168,Male,Percent,Unknown,Total
+Ghana,GH,GHA,288,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.13214992,Total,Percent,Unknown,Total
+Guatemala,GT,GTM,320,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.104759149,Female,Percent,Unknown,Total
+Guatemala,GT,GTM,320,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.093342364,Male,Percent,Unknown,Total
+Guatemala,GT,GTM,320,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.098991163,Total,Percent,Unknown,Total
+Guinea,GN,GIN,324,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.157857299,Female,Percent,Unknown,Total
+Guinea,GN,GIN,324,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.15643315,Male,Percent,Unknown,Total
+Guinea,GN,GIN,324,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.157143846,Total,Percent,Unknown,Total
+Guinea-Bissau,GW,GNB,624,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.022655467,Female,Percent,Unknown,Total
+Guinea-Bissau,GW,GNB,624,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0,Male,Percent,Unknown,Total
+Guinea-Bissau,GW,GNB,624,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.011098899,Total,Percent,Unknown,Total
+Guyana,GY,GUY,328,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.044458456,Female,Percent,Unknown,Total
+Guyana,GY,GUY,328,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.018371942,Male,Percent,Unknown,Total
+Guyana,GY,GUY,328,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.031306852,Total,Percent,Unknown,Total
+Haiti,HT,HTI,332,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.114583328,Female,Percent,Unknown,Total
+Haiti,HT,HTI,332,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.108745389,Male,Percent,Unknown,Total
+Haiti,HT,HTI,332,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.111610033,Total,Percent,Unknown,Total
+Honduras,HN,HND,340,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.098348886,Female,Percent,Unknown,Total
+Honduras,HN,HND,340,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.077515684,Male,Percent,Unknown,Total
+Honduras,HN,HND,340,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.087587275,Total,Percent,Unknown,Total
+India,IN,IND,356,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.120366476,Female,Percent,Unknown,Total
+India,IN,IND,356,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.083170675,Male,Percent,Unknown,Total
+India,IN,IND,356,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.101084664,Total,Percent,Unknown,Total
+Iraq,IQ,IRQ,368,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.001119995,Female,Percent,Unknown,Total
+Iraq,IQ,IRQ,368,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Iraq,IQ,IRQ,368,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.000542874,Total,Percent,Unknown,Total
+Kenya,KE,KEN,404,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.564213872,Female,Percent,Unknown,Total
+Kenya,KE,KEN,404,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.528101683,Male,Percent,Unknown,Total
+Kenya,KE,KEN,404,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.546039462,Total,Percent,Unknown,Total
+Kiribati,KI,KIR,296,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.175708145,Female,Percent,Unknown,Total
+Kiribati,KI,KIR,296,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Kiribati,KI,KIR,296,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.084775738,Total,Percent,Unknown,Total
+Kyrgyzstan,KG,KGZ,417,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Female,Percent,Unknown,Total
+Kyrgyzstan,KG,KGZ,417,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Kyrgyzstan,KG,KGZ,417,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Total,Percent,Unknown,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.544358969,Female,Percent,Unknown,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.437970549,Male,Percent,Unknown,Total
+Lao People's Democratic Republic,LA,LAO,418,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.490070075,Total,Percent,Unknown,Total
+Lesotho,LS,LSO,426,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.005766813,Female,Percent,Unknown,Total
+Lesotho,LS,LSO,426,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.017862907,Male,Percent,Unknown,Total
+Lesotho,LS,LSO,426,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.011777837,Total,Percent,Unknown,Total
+Liberia,LR,LBR,430,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.689187407,Female,Percent,Unknown,Total
+Liberia,LR,LBR,430,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.427236736,Male,Percent,Unknown,Total
+Liberia,LR,LBR,430,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.555285513,Total,Percent,Unknown,Total
+Madagascar,MG,MDG,450,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,1.952463984,Female,Percent,Unknown,Total
+Madagascar,MG,MDG,450,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,2.240605354,Male,Percent,Unknown,Total
+Madagascar,MG,MDG,450,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,2.098693132,Total,Percent,Unknown,Total
+Malawi,MW,MWI,454,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.001260935,Female,Percent,Unknown,Total
+Malawi,MW,MWI,454,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.003503374,Male,Percent,Unknown,Total
+Malawi,MW,MWI,454,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.002381545,Total,Percent,Unknown,Total
+Maldives,MV,MDV,462,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0,Female,Percent,Unknown,Total
+Maldives,MV,MDV,462,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0,Male,Percent,Unknown,Total
+Maldives,MV,MDV,462,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0,Total,Percent,Unknown,Total
+Mali,ML,MLI,466,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.160403967,Female,Percent,Unknown,Total
+Mali,ML,MLI,466,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.133614406,Male,Percent,Unknown,Total
+Mali,ML,MLI,466,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.146808654,Total,Percent,Unknown,Total
+Mauritania,MR,MRT,478,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.301953465,Female,Percent,Unknown,Total
+Mauritania,MR,MRT,478,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.216027007,Male,Percent,Unknown,Total
+Mauritania,MR,MRT,478,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.259508163,Total,Percent,Unknown,Total
+Mexico,MX,MEX,484,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Female,Percent,Unknown,Total
+Mexico,MX,MEX,484,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Male,Percent,Unknown,Total
+Mexico,MX,MEX,484,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Total,Percent,Unknown,Total
+Mongolia,MN,MNG,496,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.015879903,Female,Percent,Unknown,Total
+Mongolia,MN,MNG,496,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.018419173,Male,Percent,Unknown,Total
+Mongolia,MN,MNG,496,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.01718653,Total,Percent,Unknown,Total
+Mozambique,MZ,MOZ,508,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.71977675,Female,Percent,Unknown,Total
+Mozambique,MZ,MOZ,508,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.712934732,Male,Percent,Unknown,Total
+Mozambique,MZ,MOZ,508,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2011,0.716399074,Total,Percent,Unknown,Total
+Myanmar,MM,MMR,104,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.055550896,Female,Percent,Unknown,Total
+Myanmar,MM,MMR,104,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.081891827,Male,Percent,Unknown,Total
+Myanmar,MM,MMR,104,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.068918727,Total,Percent,Unknown,Total
+Namibia,,NAM,516,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.029704778,Female,Percent,Unknown,Total
+Namibia,,NAM,516,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0,Male,Percent,Unknown,Total
+Namibia,,NAM,516,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.014940421,Total,Percent,Unknown,Total
+Nepal,NP,NPL,524,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.007944975,Female,Percent,Unknown,Total
+Nepal,NP,NPL,524,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.031006733,Male,Percent,Unknown,Total
+Nepal,NP,NPL,524,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.019512067,Total,Percent,Unknown,Total
+Niger,NE,NER,562,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.179411173,Female,Percent,Unknown,Total
+Niger,NE,NER,562,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.140989766,Male,Percent,Unknown,Total
+Niger,NE,NER,562,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.159818649,Total,Percent,Unknown,Total
+Nigeria,NG,NGA,566,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.253646165,Female,Percent,Unknown,Total
+Nigeria,NG,NGA,566,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.262308598,Male,Percent,Unknown,Total
+Nigeria,NG,NGA,566,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.258036375,Total,Percent,Unknown,Total
+Pakistan,PK,PAK,586,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.165289491,Female,Percent,Unknown,Total
+Pakistan,PK,PAK,586,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.135494679,Male,Percent,Unknown,Total
+Pakistan,PK,PAK,586,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.150403097,Total,Percent,Unknown,Total
+Papua New Guinea,PG,PNG,598,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.356693268,Female,Percent,Unknown,Total
+Papua New Guinea,PG,PNG,598,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.309551388,Male,Percent,Unknown,Total
+Papua New Guinea,PG,PNG,598,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.331846029,Total,Percent,Unknown,Total
+Paraguay,PY,PRY,600,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.002558043,Female,Percent,Unknown,Total
+Paraguay,PY,PRY,600,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0,Male,Percent,Unknown,Total
+Paraguay,PY,PRY,600,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.001246826,Total,Percent,Unknown,Total
+Peru,PE,PER,604,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.004425685,Female,Percent,Unknown,Total
+Peru,PE,PER,604,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.014217381,Male,Percent,Unknown,Total
+Peru,PE,PER,604,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2012,0.009455577,Total,Percent,Unknown,Total
+Rwanda,RW,RWA,646,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.070796736,Female,Percent,Unknown,Total
+Rwanda,RW,RWA,646,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.004680932,Male,Percent,Unknown,Total
+Rwanda,RW,RWA,646,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.037753534,Total,Percent,Unknown,Total
+Sao Tome and Principe,ST,STP,678,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.091968894,Female,Percent,Unknown,Total
+Sao Tome and Principe,ST,STP,678,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.179433987,Male,Percent,Unknown,Total
+Sao Tome and Principe,ST,STP,678,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.135065407,Total,Percent,Unknown,Total
+Senegal,SN,SEN,686,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.045462061,Female,Percent,Unknown,Total
+Senegal,SN,SEN,686,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.006421894,Male,Percent,Unknown,Total
+Senegal,SN,SEN,686,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.026127186,Total,Percent,Unknown,Total
+Sierra Leone,SL,SLE,694,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.09866982,Female,Percent,Unknown,Total
+Sierra Leone,SL,SLE,694,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.106608883,Male,Percent,Unknown,Total
+Sierra Leone,SL,SLE,694,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0.102646545,Total,Percent,Unknown,Total
+South Africa,ZA,ZAF,710,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.013776984,Female,Percent,Unknown,Total
+South Africa,ZA,ZAF,710,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.01310706,Male,Percent,Unknown,Total
+South Africa,ZA,ZAF,710,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.013433675,Total,Percent,Unknown,Total
+Suriname,SR,SUR,740,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.032225087,Female,Percent,Unknown,Total
+Suriname,SR,SUR,740,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.039716862,Male,Percent,Unknown,Total
+Suriname,SR,SUR,740,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.036062822,Total,Percent,Unknown,Total
+Tajikistan,TJ,TJK,762,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Female,Percent,Unknown,Total
+Tajikistan,TJ,TJK,762,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Male,Percent,Unknown,Total
+Tajikistan,TJ,TJK,762,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2017,0,Total,Percent,Unknown,Total
+Thailand,TH,THA,764,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.004358913,Female,Percent,Unknown,Total
+Thailand,TH,THA,764,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Male,Percent,Unknown,Total
+Thailand,TH,THA,764,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.002138663,Total,Percent,Unknown,Total
+Timor-Leste,TL,TLS,626,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.135770366,Female,Percent,Unknown,Total
+Timor-Leste,TL,TLS,626,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.142358914,Male,Percent,Unknown,Total
+Timor-Leste,TL,TLS,626,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.139168426,Total,Percent,Unknown,Total
+Togo,TG,TGO,768,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.437686771,Female,Percent,Unknown,Total
+Togo,TG,TGO,768,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.348052204,Male,Percent,Unknown,Total
+Togo,TG,TGO,768,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2014,0.392039716,Total,Percent,Unknown,Total
+Tunisia,TN,TUN,788,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Female,Percent,Unknown,Total
+Tunisia,TN,TUN,788,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Male,Percent,Unknown,Total
+Tunisia,TN,TUN,788,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0,Total,Percent,Unknown,Total
+Turkmenistan,TM,TKM,795,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Female,Percent,Unknown,Total
+Turkmenistan,TM,TKM,795,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Male,Percent,Unknown,Total
+Turkmenistan,TM,TKM,795,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0,Total,Percent,Unknown,Total
+Uganda,UG,UGA,800,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.053777751,Female,Percent,Unknown,Total
+Uganda,UG,UGA,800,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.052024107,Male,Percent,Unknown,Total
+Uganda,UG,UGA,800,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2016,0.052897647,Total,Percent,Unknown,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.129301354,Female,Percent,Unknown,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.088926777,Male,Percent,Unknown,Total
+"Tanzania, United Republic of",TZ,TZA,834,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.109042957,Total,Percent,Unknown,Total
+Yemen,YE,YEM,887,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.372139961,Female,Percent,Unknown,Total
+Yemen,YE,YEM,887,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.242053077,Male,Percent,Unknown,Total
+Yemen,YE,YEM,887,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2013,0.305846572,Total,Percent,Unknown,Total
+Zambia,ZM,ZMB,894,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.110670663,Female,Percent,Unknown,Total
+Zambia,ZM,ZMB,894,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.091296434,Male,Percent,Unknown,Total
+Zambia,ZM,ZMB,894,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2018,0.101080917,Total,Percent,Unknown,Total
+Zimbabwe,ZW,ZWE,716,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.181890503,Female,Percent,Unknown,Total
+Zimbabwe,ZW,ZWE,716,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.088233821,Male,Percent,Unknown,Total
+Zimbabwe,ZW,ZWE,716,Percentage Children suffering exactly four deprivation. Homogeneous severe standards,2015,0.134912178,Total,Percent,Unknown,Total
